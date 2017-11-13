@@ -1,6 +1,6 @@
 #  It is supposed that node js is already installed 
 1. You need to have installed MongoDB (https://www.mongodb.com/download-center?jmp=nav)
-*Open command line and go to mongoDb path : /path-to-mongoDb/bin
+* Open command line and go to mongoDb path : /path-to-mongoDb/bin
 * Run mongod command in command line
 
 2. Go to project folder backend and type in new command line : 
