@@ -1,0 +1,15 @@
+export const LIST_REQUEST = 'messages.LIST_REQUEST'
+export const LIST_SUCCESS = 'messages.LIST_SUCCESS'
+export const LIST_ERROR = 'messages.LIST_ERROR'
+
+export const CREATE_MESSAGE_REQUEST = 'messages.CREATE_MESSAGE_REQUEST'
+export const CREATE_MESSAGE_SUCCESS = 'messages.CREATE_MESSAGE_SUCCESS'
+export const CREATE_MESSAGE_ERROR = 'messages.CREATE_MESSAGE_ERROR'
+
+export const EDIT_MESSAGE_REQUEST = 'messages.EDIT_MESSAGE_REQUEST'
+export const EDIT_MESSAGE_SUCCESS = 'messages.EDIT_MESSAGE_SUCCESS'
+export const EDIT_MESSAGE_ERROR = 'messages.EDIT_MESSAGE_ERROR'
+
+export const DELETE_MESSAGE_REQUEST = 'messages.DELETE_MESSAGE_REQUEST'
+export const DELETE_MESSAGE_SUCCESS = 'messages.DELETE_MESSAGE_SUCCESS'
+export const DELETE_MESSAGE_ERROR = 'messages.DELETE_MESSAGE_ERROR'

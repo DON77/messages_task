@@ -1,0 +1,20 @@
+.App {
+    margin: 50px
+}
+
+.create-button {
+    float: right
+}
+
+.delete-icon, .edit-icon {
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+table th {
+    background: #babbbb !important;
+}
+
+table tr {
+    background: white !important;
+}
